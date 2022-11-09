@@ -1,8 +1,9 @@
 ## Hướng dẫn sử dụng code:
 ### Cách 1: 
-<Bấm để xem>
+<details>
+<summary>Bấm để xem?</summary>
 ![Alt text](Tutorial.png?raw=true "Title")
-</Bấm để xem>
+</details>
 
 ### Cách 2 (Dành cho bạn nào biết dùng github và có k/n code):
 1. Fork source này của mình
